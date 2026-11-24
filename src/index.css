@@ -1,0 +1,62 @@
+
+@import "tailwindcss";
+
+* {
+  box-sizing: border-box;
+}
+
+html,
+body,
+#root {
+  width: 100%;
+  min-height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  overflow-x: hidden;
+}
+
+
+
+@import "tailwindcss";
+
+/* Font Families */
+
+@font-face {
+  font-family: "3DSV2";
+  src: url("./fonts/3DSV2-Regular.ttf") format("truetype");
+  font-weight: 400;
+}
+
+@font-face {
+  font-family: "3DSV2";
+  src: url("./fonts/3DSV2-Bold.ttf") format("truetype");
+  font-weight: 700;
+}
+
+@font-face {
+  font-family: "3DSV2";
+  src: url("./fonts/3DSV2-SemiBold.ttf") format("truetype");
+  font-weight: 600;
+}
+
+@font-face {
+  font-family: "3DSV2";
+  src: url("./fonts/3DSV2-Light.ttf") format("truetype");
+  font-weight: 300;
+}
+
+@font-face {
+  font-family: "3DSV2-Condensed";
+  src: url("./fonts/3DSV2-Condensed.ttf") format("truetype");
+  font-weight: 400;
+}
+
+/* Tailwind Theme */
+
+@theme {
+  --font-ds: "3DSV2", sans-serif;
+  --font-ds-condensed: "3DSV2-Condensed", sans-serif;
+}

@@ -1,0 +1,359 @@
+%!Adobe-FontList 1.24
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:3DSV2-Bold
+FamilyName:3DS V2
+StyleName:Bold
+FullName:3DS V2 Bold
+MenuName:3DS V2
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:C:\Users\PC\Desktop\Font\3DSV2-Bold.ttf
+DataFormat:sfntData
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:83720
+FileModTime:1777008476
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,3DS V2
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:3DSV2-BoldCondensed
+FamilyName:3DS V2
+StyleName:Bold Condensed
+FullName:3DS V2 Bold Condensed
+MenuName:3DS V2 Condensed
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:C:\Users\PC\Desktop\Font\3DSV2-BoldCondensed.ttf
+DataFormat:sfntData
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:83500
+FileModTime:1777008476
+WeightClass:700
+WidthClass:3
+AngleClass:0
+NameArray:0,Win,1,3DS V2 Condensed
+NameArray:0,Win,16,3DS V2
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:3DSV2-BoldItalic
+FamilyName:3DS V2
+StyleName:Bold Italic
+FullName:3DS V2 Bold Italic
+MenuName:3DS V2
+StyleBits:3
+WritingScript:Roman
+OutlineFileName:C:\Users\PC\Desktop\Font\3DSV2-BoldItalic.ttf
+DataFormat:sfntData
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:71800
+FileModTime:1777008476
+WeightClass:700
+WidthClass:5
+AngleClass:1
+NameArray:0,Win,1,3DS V2
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:3DSV2-Condensed
+FamilyName:3DS V2
+StyleName:Condensed
+FullName:3DS V2 Condensed
+MenuName:3DS V2 Condensed
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\PC\Desktop\Font\3DSV2-Condensed.ttf
+DataFormat:sfntData
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:83368
+FileModTime:1777008476
+WeightClass:400
+WidthClass:3
+AngleClass:0
+NameArray:0,Win,1,3DS V2 Condensed
+NameArray:0,Win,16,3DS V2
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:3DSV2-ExtraLight
+FamilyName:3DS V2
+StyleName:ExtraLight
+FullName:3DS V2 ExtraLight
+MenuName:3DS V2 ExtraLight
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\PC\Desktop\Font\3DSV2-ExtraLight.ttf
+DataFormat:sfntData
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:83872
+FileModTime:1777008476
+WeightClass:200
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,3DS V2 ExtraLight
+NameArray:0,Win,16,3DS V2
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:3DSV2-ExtraLightCondensed
+FamilyName:3DS V2
+StyleName:ExtraLight Condensed
+FullName:3DS V2 ExtraLight Condensed
+MenuName:3DS V2 ExtraLight Condensed
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\PC\Desktop\Font\3DSV2-ExtraLightCondensed.ttf
+DataFormat:sfntData
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:82896
+FileModTime:1777008476
+WeightClass:200
+WidthClass:3
+AngleClass:0
+NameArray:0,Win,1,3DS V2 ExtraLight Condensed
+NameArray:0,Win,16,3DS V2
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:3DSV2-ExtraLightItalic
+FamilyName:3DS V2
+StyleName:ExtraLight Italic
+FullName:3DS V2 ExtraLight Italic
+MenuName:3DS V2 ExtraLight
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\Users\PC\Desktop\Font\3DSV2-ExtraLightItalic.ttf
+DataFormat:sfntData
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:72220
+FileModTime:1777008476
+WeightClass:200
+WidthClass:5
+AngleClass:1
+NameArray:0,Win,1,3DS V2 ExtraLight
+NameArray:0,Win,16,3DS V2
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:3DSV2-Italic
+FamilyName:3DS V2
+StyleName:Italic
+FullName:3DS V2 Italic
+MenuName:3DS V2
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\Users\PC\Desktop\Font\3DSV2-Italic.ttf
+DataFormat:sfntData
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:72052
+FileModTime:1777008476
+WeightClass:400
+WidthClass:5
+AngleClass:1
+NameArray:0,Win,1,3DS V2
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:3DSV2-Light
+FamilyName:3DS V2
+StyleName:Light
+FullName:3DS V2 Light
+MenuName:3DS V2 Light
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\PC\Desktop\Font\3DSV2-Light.ttf
+DataFormat:sfntData
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:83824
+FileModTime:1777008476
+WeightClass:300
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,3DS V2 Light
+NameArray:0,Win,16,3DS V2
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:3DSV2-LightCondensed
+FamilyName:3DS V2
+StyleName:Light Condensed
+FullName:3DS V2 Light Condensed
+MenuName:3DS V2 Light Condensed
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\PC\Desktop\Font\3DSV2-LightCondensed.ttf
+DataFormat:sfntData
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:83920
+FileModTime:1777008476
+WeightClass:300
+WidthClass:3
+AngleClass:0
+NameArray:0,Win,1,3DS V2 Light Condensed
+NameArray:0,Win,16,3DS V2
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:3DSV2-LightItalic
+FamilyName:3DS V2
+StyleName:Light Italic
+FullName:3DS V2 Light Italic
+MenuName:3DS V2 Light
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\Users\PC\Desktop\Font\3DSV2-LightItalic.ttf
+DataFormat:sfntData
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:72140
+FileModTime:1777008476
+WeightClass:300
+WidthClass:5
+AngleClass:1
+NameArray:0,Win,1,3DS V2 Light
+NameArray:0,Win,16,3DS V2
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:3DSV2-Regular
+FamilyName:3DS V2
+StyleName:Regular
+FullName:3DS V2 Regular
+MenuName:3DS V2
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\PC\Desktop\Font\3DSV2-Regular.ttf
+DataFormat:sfntData
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:83752
+FileModTime:1777008476
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,3DS V2
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:3DSV2-SemiBold
+FamilyName:3DS V2
+StyleName:SemiBold
+FullName:3DS V2 SemiBold
+MenuName:3DS V2 SemiBold
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\PC\Desktop\Font\3DSV2-SemiBold.ttf
+DataFormat:sfntData
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:83900
+FileModTime:1777008476
+WeightClass:600
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,3DS V2 SemiBold
+NameArray:0,Win,16,3DS V2
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:3DSV2-SemiBoldCondensed
+FamilyName:3DS V2
+StyleName:SemiBold Condensed
+FullName:3DS V2 SemiBold Condensed
+MenuName:3DS V2 SemiBold Condensed
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\PC\Desktop\Font\3DSV2-SemiBoldCondensed.ttf
+DataFormat:sfntData
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:83880
+FileModTime:1777008476
+WeightClass:600
+WidthClass:3
+AngleClass:0
+NameArray:0,Win,1,3DS V2 SemiBold Condensed
+NameArray:0,Win,16,3DS V2
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:3DSV2-SemiBoldItalic
+FamilyName:3DS V2
+StyleName:SemiBold Italic
+FullName:3DS V2 SemiBold Italic
+MenuName:3DS V2 SemiBold
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\Users\PC\Desktop\Font\3DSV2-SemiBoldItalic.ttf
+DataFormat:sfntData
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:71924
+FileModTime:1777008476
+WeightClass:600
+WidthClass:5
+AngleClass:1
+NameArray:0,Win,1,3DS V2 SemiBold
+NameArray:0,Win,16,3DS V2
+%EndFont
+

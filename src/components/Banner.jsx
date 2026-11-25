@@ -8,7 +8,7 @@ export default function Banner() {
 
       {/* Background Image */}
       <motion.img
-        src="/Banner.png"
+        src={`${import.meta.env.BASE_URL}Banner.png`}
         alt="METEC India 2026"
         initial={{ scale: 1.08, opacity: 0 }}
         animate={{ scale: 1, opacity: 1 }}

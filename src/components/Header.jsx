@@ -6,7 +6,7 @@ export default function Header() {
     <header className="w-full h-19 bg-white border-b border-[#dce5eb] flex items-center px-8 md:px-36">
 
       <motion.img
-        src="/icon.svg"
+        src={`${import.meta.env.BASE_URL}icon.svg`}
         alt="Dassault Systèmes"
         initial={{ opacity: 0, x: -15 }}
         animate={{ opacity: 1, x: 0 }}

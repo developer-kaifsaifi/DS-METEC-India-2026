@@ -3,7 +3,7 @@ import { motion } from "motion/react";
 
 export default function Header() {
   return (
-    <header className="w-full h-19 bg-white border-b border-[#dce5eb] flex items-center px-8 md:px-36">
+    <header className="w-full h-19 bg-white border-b border-[#dce5eb] flex items-center px-8 md:px-12">
 
       <motion.img
         src={`${import.meta.env.BASE_URL}icon.svg`}

@@ -14,6 +14,7 @@ const initialFormData = {
   topics: [],
   nextStep: "",
   timeline: "",
+  boothExperience: "",
   comments: "",
   consent: false,
   metBy: "",
@@ -70,6 +71,13 @@ const timelines = [
   "Immediately",
   "3–6 months",
   "Beyond 6 months",
+];
+
+const boothExperienceRatings = [
+  "Excellent",
+  "Very Good",
+  "Good",
+  "Not Satisfactory",
 ];
 
 // ================= STYLES =================
@@ -236,7 +244,7 @@ const FeedbackForm = memo(function FeedbackForm() {
         </h1>
 
         <p className="text-xl md:text-[22px] leading-[1.27] font-light max-w-[390px]">
-          Thank you for visiting our booth. Six quick
+          Thank you for visiting our booth. Seven quick
           questions help us follow up on what is useful
           to you. It takes about two minutes.
         </p>
@@ -467,11 +475,38 @@ const FeedbackForm = memo(function FeedbackForm() {
           </div>
         </MotionSection>
 
-        {/* 6 COMMENTS */}
+        {/* 6 BOOTH EXPERIENCE */}
 
         <MotionSection className={sectionClass}>
           <h2 className="text-xl md:text-2xl font-bold mb-5">
-            6 Anything else you would like us to know about your need? *
+            6 How would you rate your experience at our booth? *
+          </h2>
+
+          <div className="flex flex-col gap-3">
+            {boothExperienceRatings.map((rating) => (
+              <label key={rating} className={radioLabel}>
+                <input
+                  required
+                  type="radio"
+                  name="boothExperience"
+                  value={rating}
+                  checked={formData.boothExperience === rating}
+                  onChange={() =>
+                    updateField("boothExperience", rating)
+                  }
+                  className={radioClass}
+                />
+                <span>{rating}</span>
+              </label>
+            ))}
+          </div>
+        </MotionSection>
+
+        {/* 7 COMMENTS */}
+
+        <MotionSection className={sectionClass}>
+          <h2 className="text-xl md:text-2xl font-bold mb-5">
+            7 Anything else you would like us to know about your need? *
           </h2>
 
           <textarea
